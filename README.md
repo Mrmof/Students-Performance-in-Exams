@@ -1,4 +1,4 @@
-# Students-Performance-in-Exams
+![Screenshot (502)](https://github.com/user-attachments/assets/88b81496-fddb-43e1-958a-0ba1d1702597)# Students-Performance-in-Exams
 This analysis is conducted to understand the influence of the parents background, test preparation and other factors on students performance. Also, it assess the correlation between variables as well as predicts outcomes.
 
 #Data Source and Details
@@ -17,7 +17,8 @@ The study was conducted primarily to undertstand student academic performance an
 4. Gender and parents background based effect on maths pass score
 5. How does parental education level influence the likelihood of a student scoring above 85 in reading?
 
-#Findings
+#Findings and Recommendations
+![Screenshot (502)](https://github.com/user-attachments/assets/9d39e794-c1e6-409b-9c2c-f2c0b3cdbd77)
 
 #question 1
 The result showed more female than male across all groups except group A and E. Also the average score recorded for all groups across the assessed subjects ranged from 61.6 - 73.8
@@ -30,6 +31,8 @@ It is recommended to improve reading and writing practice for males student and 
 Students whose parents had some college education performed better than the other groups. this could be due to parents attention to their childrens academic work, closeness in relation to high value place on education. while students whose parents had masters degree performed the lowest which could be due to less hands-on involvement in  daily academic activities. Also, student that eat standard meals had better performance which may have been caused by nutritional values provided by food. Students involved in exam preparation perform lower than the other group, outlining the negatives of preparatory process. this could be due to excess preparatory practices limiting time for personal engagement in academic work.
 It is recommended that parents with higher qualification create a more structed approach to the academics of their children including adopting home lesson teachers and enrollment in extra academic activities. Students which be provided with standard meals, while the preparatory process should be restructured.
 
+
+
 #question 4
 Findings showed that parents educational background had an effect on maths pass scores across both genders. females generally performed better with parents having education above the basic high school level. This could be due to hand-on involving in children basic arithmetics.
 It is recommended that parents with educational background above high school level actively engage male children in arithmetics and/or involve the use of an external teacher to improve academic performance.
@@ -38,4 +41,3 @@ It is recommended that parents with educational background above high school lev
 Findings showed that parents educational background had an effect on reading pass scores. Generally students whose parents had higher educational background performed better at reading. 
 It is recommended that parents with educational background below bachelors level actively engage male children in reading and/or involve the use of an external teacher to improve academic performance.
 
-Conclusion and Recommendations
